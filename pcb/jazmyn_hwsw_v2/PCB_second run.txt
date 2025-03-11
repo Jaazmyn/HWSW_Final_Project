@@ -1,0 +1,11 @@
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-F_Cu.gbr'.
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-B_Cu.gbr'.
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-F_Paste.gbr'.
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-B_Paste.gbr'.
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-F_Silkscreen.gbr'.
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-B_Silkscreen.gbr'.
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-F_Mask.gbr'.
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-B_Mask.gbr'.
+Plotted to '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_first_run/jazmyn_hwsw-job.gbrjob'.
+Info: Done.

@@ -505,10 +505,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../pcb_first_run/",
+      "plot": "/Users/jazmynzzz/Documents/PlatformIO/Projects/xiao_board/HWSW_Final_Project/pcb/pcb_run/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "mockup_01.step",
       "svg": "",
       "vrml": ""
     },

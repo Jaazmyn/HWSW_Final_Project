@@ -508,7 +508,7 @@
       "plot": "../pcb_first_run/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "jazmyn_hwsw.step",
       "svg": "",
       "vrml": ""
     },
